@@ -1,2 +1,18 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<script>
+
+</script>
+<style>
+    * {
+        font-family: Futura, Montserrat;
+        text-align: center;
+    }
+    img {
+        width: 40%;
+        display: block;
+        margin: 0 auto;
+    }
+</style>
+
+<h1>Hello world!</h1>
+<h3>This is Alice the ducky!</h3>
+<img src = "alice.png" alt="Alice the duck"/>
