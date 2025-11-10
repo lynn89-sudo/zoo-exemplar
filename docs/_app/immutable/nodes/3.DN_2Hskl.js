@@ -1,0 +1,1 @@
+import"../chunks/DsnmJJEf.js";import"../chunks/BBIlVxJ7.js";import{K as t,L as a,M as m}from"../chunks/jKrODfo8.js";/* empty css                */var p=t("<h1>Hello world</h1> <h3>It is I, Me</h3>",1);function s(o){var r=p();m(2),a(o,r)}export{s as component};
